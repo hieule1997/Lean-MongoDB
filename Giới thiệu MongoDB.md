@@ -19,7 +19,7 @@
 
 ### 4. Hướng dẫn cài đặt
 
-Hướng dẫn cài đặt MongoDB [tại đây]()
+Hướng dẫn cài đặt MongoDB [tại đây](https://github.com/hieule1997/Lean-MongoDB/blob/master/Install%20MongoDB.md)
 ### 5. Hướng dẫn sử dụng một vài câu lệnh đơn giản 
 
-Các câu lệnh đơn giản [tại đây]()
+Các câu lệnh đơn giản [tại đây](https://github.com/hieule1997/Lean-MongoDB/blob/master/S%E1%BB%AD%20d%E1%BB%A5ng%20MongoDB.md)
